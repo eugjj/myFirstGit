@@ -4,6 +4,6 @@
 - line item1
 - line item2
 
-This is my first tiem using Markdown.
+This is my first time using Markdown.
 
 <img src="https://pbs.twimg.com/media/DUfDNvTVQAA2osS.jpg:large" />
