@@ -1,0 +1,18 @@
+﻿body
+{
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius:10px;
+}
+
+h2{
+    text-align:center;
+}
+h3 {
+    text-align: center;
+}
